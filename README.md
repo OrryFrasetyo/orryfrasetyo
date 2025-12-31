@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello World! I'm Orry Frasetyo
 
-- 🧑🏻‍💻 I am a student major in information technology
 - 🍃 I love to learn new things, especially in the field of programming
 - 📱 I'm currently learning [**Flutter**](https://docs.flutter.dev) framework
 - 🤖 I,m currently learning [**Artifical Intelligence**](https://learn.microsoft.com/id-id/plans/0ko1c1trq82kmm?sharingId=3BBEC66F3B71C71D)
